@@ -1,0 +1,45 @@
+body {
+    margin: 0 auto;
+    max-width: 40%;
+    font-family: 'calibri';
+    justify-content: justify;
+ }
+
+ section {
+ font-size: 20px;
+ }
+
+ img {
+   width: 100%;
+ }
+ 
+ .turquesa{
+    color: turquoise
+ }
+ .rowextra {
+    width: 100%;
+    border: 1px solid #000000;
+    display:flex;
+    justify-content: center;
+    text-align: center;    
+}
+ .mitadextra {
+    width: 50%;
+    border: 1px solid #000000;
+    display: flex;
+    text-align: center;    
+ }
+ .textofoto {
+    text-align: center;
+ }
+ .nombres{
+    width: 50%;
+    text-align: center;  
+}
+.nombreypersonaje{
+    width: 100%;
+    display:flex;
+    justify-content: center;
+    text-align: center;  
+
+}
