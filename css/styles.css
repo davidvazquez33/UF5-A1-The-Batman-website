@@ -1,27 +1,21 @@
-@import url('https://fonts.googleapis.com/css2?family=Press+Start+2P&family=Titillium+Web:ital,wght@0,200;0,300;0,400;0,600;0,700;0,900;1,200;1,300;1,400;1,600;1,700&display=swap');
+       
+@import url('https://fonts.googleapis.com/css2?family=Comfortaa:wght@300..700&display=swap');
 
- .letrasfonts  {
-   font-family: "Press Start 2P", system-ui;
-   font-weight: 400;
-   font-style: normal;
- }
-/*letra del google fonts*/
 
-.ajustesgenerales {
-   max-width: 600px; 
-   margin: 0 auto; 
+#imagentexto {
+   position: relative;
+   width: 100%; 
  }
  
- .imgfondo {
-   position: relative;
- }
- /*imagen de fondo "batman con texto arriba"*/
-
- .texto-encima {
+ #textoimagen {
    position: absolute;
-   top: 5%;   
-   left: 50%;    
-   transform: translate(-50%);
-   color: white;       
+   top: 45%; 
+   left: 50%; 
+   transform: translate(-50%, -50%); 
+   color: white;
+   padding: 10px; 
+   font-size: 40px; 
+   text-align: justify;
  }
- /*texto encima imagen de batman*/
+
+ 
