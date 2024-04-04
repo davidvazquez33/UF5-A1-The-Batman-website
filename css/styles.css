@@ -17,11 +17,6 @@
    text-align: justify;
  }
 
- section{
-    max-width: 600px;
-    margin: 0 auto;
- }
-
 .letrafont {
     font-family: "Comfortaa", sans-serif;
     font-optical-sizing: auto;
@@ -30,6 +25,13 @@
     text-align: justify;
 
 }
+
+ section{
+    max-width: 600px;
+    margin: 0 auto;
+ }
+
+
 
 
  
