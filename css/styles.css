@@ -1,6 +1,7 @@
        
 @import url('https://fonts.googleapis.com/css2?family=Comfortaa:wght@300..700&family=Poiret+One&display=swap');
 
+
 #imagentexto {
    position: relative;
    width: 100%; 
@@ -66,5 +67,17 @@
   border-radius: 50%;
 }
 
-
+@media screen and (max-width: 1200px) {
+#textoimagen {
+    position: absolute;
+    top: 55%; 
+    left: 50%; 
+    transform: translate(-50%, -50%); 
+    color: white;
+    padding: 10px; 
+    font-size: 20px; 
+    text-align: justify;
+  }
+ 
+}
  
