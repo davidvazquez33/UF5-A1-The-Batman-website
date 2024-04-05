@@ -17,6 +17,10 @@
    text-align: justify;
  }
 
+.linkenrojo {
+  color: red;
+}
+
 .letrafont {
     font-family: "Comfortaa", sans-serif;
     font-optical-sizing: auto;
@@ -29,6 +33,14 @@
     max-width: 525px;
     margin: 0 auto;
  }
+
+ #piefinaldepag {
+  padding: 5px;
+  background-color: black;
+  color: white;
+  text-align: center;
+ }
+
 
 
 
